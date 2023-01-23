@@ -1,1 +1,2 @@
 2file
+this is a text file
